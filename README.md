@@ -11,7 +11,7 @@ jJsonViewer  [![Build Status](https://travis-ci.org/shwetado/jjsonviewer.svg?bra
 			
 ```
 
-This plugin includes JSON neautifier, you can expand and collapse JSON objects. 
+This plugin includes JSON beautifier, you can expand and collapse JSON objects. 
 
 Here is how it will look. 
 
